@@ -1,7 +1,7 @@
 # Data-PCOS-Analysis
 
 ## Project Objective 
-The goal of this project is to analyze a PCOS dataset to identify trends, patterns, and potential correlations between symptoms and health indicators. By using Excel tools such as pivot tables, formulas, and data visualizations, I created an interactive dashboard that highlights key insights and makes the data easier to explore for decision-making or awareness purposes.
+The goal of this project is to analyze a PCOS dataset to uncover trends, patterns, and potential correlations between symptoms and health indicators. Using Excel tools such as pivot tables, formulas, and data visualizations, I created an interactive dashboard that highlights key insights, which can be used for awareness, early detection strategies, or supporting decision-making in women’s health.
 
 ## Dataset Used 
 - <a target="_blank" href="https://www.kaggle.com/datasets/hasaanrana/diet-exercise-and-pcos-insights/data">PCOS Analysis Data</a>
@@ -19,6 +19,7 @@ The goal of this project is to analyze a PCOS dataset to identify trends, patter
 - Built pivot tables to explore relationships between health indicators.
 - Created an interactive Excel dashboard to visualize PCOS trends.
 - Answered key questions around prevalence and correlations.
+- Skills demonstrated: data cleaning, descriptive analysis, Excel dashboards, health data storytelling.
 
 ## Dashboard 
 <img width="1311" height="560" alt="Health_Dashboard" src="https://github.com/user-attachments/assets/dd08bcc2-ec31-491e-9e15-5799ed1ea4bb" />
