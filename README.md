@@ -24,6 +24,17 @@ The goal of this project is to analyze a PCOS dataset to uncover trends, pattern
 ## Dashboard 
 <img width="1311" height="560" alt="Health_Dashboard" src="https://github.com/user-attachments/assets/dd08bcc2-ec31-491e-9e15-5799ed1ea4bb" />
 
+## Project Insights 
+- The age group, 20-25 have a larger amount of participants that have hormonal imbalances. 
+- Individuals with PCOS were more than twice as likely to report a family history, 26% compared to those without PCOS, 12%
+- Almost 29% of participants were diagnosed with PCOS, compared to just 8.5% among those with lower stress
+- Insulin Resistance is higher in PCOS groups that have less that 8 hours of sleep in comparison with 9-12 hours have lower numbers of insulin resistance
+
+## Conclusion 
+This analysis highlighted key lifestyle and health factors linked to PCOS, such as stress levels, sleep, and family history. By understanding these patterns, awareness campaigns and healthcare providers can target prevention and education more effectively. The resulted findings could be used as an interactive tool for trainings in healthcare or educational workshops to demontrate relationships between PCOS and lifestyle factors. 
+
+
+
 
 
 
