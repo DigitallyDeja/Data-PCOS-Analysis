@@ -6,11 +6,16 @@ The goal of this project is to analyze a PCOS dataset to identify trends, patter
 ## Dataset Used 
 -<a target="_blank" href="https://www.kaggle.com/datasets/hasaanrana/diet-exercise-and-pcos-insights/data">PCOS Analysis Data</a>
 
+## Cleaned & Prepared Analysis
+
+
+
 ## Questions (KPIs)
-Question 1:  How does the age groups correlate to count of participants that have hormonal imbalances?
-Question 2: How does the family history of PCOS correlate to the count of participants that have PCOS?
-Question 3: How does stress levels correlate to the percentage of participants that are diagnosed with PCOS?
-Question 4: How does sleep hours correlate to the percentage of participants that are insulin resistant?
+Question 1:  What is the distribution of hormonal imbalances across different age groups?<br>
+Question 2: Does having a family history of PCOS increase the likelihood of a PCOS diagnosis?<br>
+Question 3: What relationship exists between reported stress levels and the rate of PCOS diagnoses?<br>
+Question 4: How do average sleep hours differ between participants who are and aren’t insulin resistant?
+
 
 ## Process
 Cleaned and prepared raw dataset for analysis.
@@ -19,7 +24,7 @@ Created an interactive Excel dashboard to visualize PCOS trends.
 Answered key questions around prevalence and correlations.
 
 ## Dashboard 
-
+<a target="_blank" href="https://github.com/DigitallyDeja/Data-PCOS-Analysis/blob/main/Health_Dashboard.png">View Dashboard</a>
 
 
 
